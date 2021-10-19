@@ -1,0 +1,14 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+# dotenv environment variables file
+.env
+.env.test
+
+yarn-error.log
+src
+coverage.json
+coverage
